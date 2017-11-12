@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49127902288",
+    "firebase_url": "https://speed-f068c.firebaseio.com",
+    "project_id": "speed-f068c",
+    "storage_bucket": "speed-f068c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49127902288:android:99fdba43731dacb8",
+        "android_client_info": {
+          "package_name": "com.example.shreyas.speed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49127902288-om5nqhmf654gbs16g8o10e4ek59t1b8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shreyas.speed",
+            "certificate_hash": "a6f1581452455c64bdfd4806a56de68d5dad4814"
+          }
+        },
+        {
+          "client_id": "49127902288-b744qiee5jrchkj29i9dn82rmpr9eobk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OqIxX-SScKK1K1Ng7FPwHK5mR5h1x8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49127902288-b744qiee5jrchkj29i9dn82rmpr9eobk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

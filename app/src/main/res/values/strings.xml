@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Speed</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signup_btn">SIGN UP</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="sign_up_suggestion">No account yet? Create one</string>
+    <string name="login_suggestion">Already registered. Login Here</string>
+    <string name="forgot_password_suggestion">Forgot your password?</string>
+    <string name="register_car">Register your car</string>
+    <string name="set_speed_limit">Set speed limit</string>
+    <string name="report_accident">Report accident</string>
+    <string name="report_illegal_parking">Report illegal parking</string>
+    <string name="track_my_car">Track my car</string>
+    <string name="speed_limit_value">Enter Speed Limit</string>
+    <string name="go">Go</string>
+    <string name="car_number">Enter Car Number</string>
+    <string name="illegal_parking_suggestion">Enter the license plate number of the car below and a text will be sent to the car owner to move his/her car</string>
+    <string name="warning">"Please move your car within 5 minutes its causing a traffic jam or you will be fined"</string>
+    <string name="current_car_driver">Enter name of the current car driver</string>
+    <string name="current_car_driver_number">Enter mobile number of current car driver</string>
+    <string name="track">Track</string>
+    <string name="accident_location">Enter location of the accident</string>
+    <string name="accident_scale">Enter severity of accident</string>
+    <string name="other_details">Enter any other details</string>
+    <string name="send_to_track">Send message to track car</string>
+    <string name="conformation">If location message has been received then press go</string>
+    <string name="set_zone">Set a zone</string>
+    <string name="zone_name">Type Zone Name</string>
+    <string name="zonal_tracking">Enable Zonal Tracking</string>
+    <string name="input_name">Input name </string>
+    <string name="balance_text">Your current balance</string>
+    <string name="current_balance">500</string>
+    <string name="check_balance">Check toll balance</string>
+</resources>
